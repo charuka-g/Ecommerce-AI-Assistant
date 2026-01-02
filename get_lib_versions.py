@@ -2,7 +2,8 @@ import importlib.metadata
 packages = [
     "langchain",
     "langchain-core",
-    "python-dotenv"
+    "python-dotenv",
+    "ipynb"
     ]
 for pkg in packages:
     try:
