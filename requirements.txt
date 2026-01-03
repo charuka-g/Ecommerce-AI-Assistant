@@ -23,3 +23,4 @@ ddgs==9.6.0
 langchain-openai==0.3.32
 -e .
 ipynb==0.5.1
+ipykernel
